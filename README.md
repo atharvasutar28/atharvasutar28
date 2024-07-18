@@ -1,4 +1,5 @@
-![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/2ed5c1c9-f61c-4527-be6c-5087bc5259d7)
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/236ad375-c022-4d12-a4e5-367f3c114c14)
+
 <h1 align="center">Hi👋, I'm Atharva Sutar</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
