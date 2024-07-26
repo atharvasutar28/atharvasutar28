@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvasutar28&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasutar28" /> </p>
 
-- 🌱 I’m currently learning **Microsoft Excel, PowerBI, Tablue and Machine Learning**.
+- 🌱 I’m currently learning **PowerBI, Tablue and Machine Learning**.
 
 - 🤝 I’m looking for Entry Level Job as a **Data Analyst**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharvasutar28?tab=repositories](https://github.com/atharvasutar28?tab=repositories)
 
-- 💬 Ask me about **Python, SQL and Data Science**.
+- 💬 Ask me about **Microsoft Excel, Python, SQL and Data Science**.
 
 - 📫 How to reach me **atharvaz.at.work@gmail.com**.
 
