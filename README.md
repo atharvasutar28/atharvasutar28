@@ -1,7 +1,7 @@
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/236ad375-c022-4d12-a4e5-367f3c114c14)
 
 <h1 align="center">Hi👋, I'm Atharva Sutar</h1>
-<h3 align="center">A passionate Data Enthusiast.</h3>
+<h3 align="center">A Passionate Data Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvasutar28&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasutar28" /> </p>
