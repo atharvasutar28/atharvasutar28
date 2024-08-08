@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvasutar28&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasutar28" /> </p>
 
-- 🌱 I’m currently learning **PowerBI, Tablue and Machine Learning**.
+- 🌱 I’m currently learning **PowerBI, Tableau and Machine Learning**.
 
 - 🤝 I’m looking for Entry Level Job as a **Data Analyst**.
 
